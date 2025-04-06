@@ -1,0 +1,8 @@
+#:schema node_modules/wrangler/config-schema.json
+name = "cyberfusion"
+compatibility_date = "2023-12-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "cyberfusion"
+database_id = "cyberfusion-db"
